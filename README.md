@@ -1,17 +1,3 @@
-- 👋 Hi, I’m @atul120212
-- 👀 I’m interested in AI&ML and want to learn new technologies
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me :- linkedin account:: https://www.linkedin.com/in/atul-sharma-11735b1b3/
-
-<!---
-atul120212/atul120212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0000FF&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Atul!++%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BC;A+software+developer+%F0%9F%92%BB;Tech+Educator++%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;And+a+Traveller+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 Glad to see you here!  🤩
@@ -47,3 +33,16 @@ As a computer science student, i have a good grasp on *Data structures & Algorit
 
 
 **Swami Vivekananda** : Take Risks in Your Life If you Win, U Can Lead! If You Lose, You can Guide!
+
+---
+
+- 👋 Hi, I’m @atul120212
+- 👀 I’m interested in AI&ML and want to learn new technologies
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Google
+- 📫 How to reach me :- linkedin account:: https://www.linkedin.com/in/atul-sharma-11735b1b3/
+
+<!---
+atul120212/atul120212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
