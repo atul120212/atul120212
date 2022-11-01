@@ -24,6 +24,8 @@ As a computer science student, i have a good grasp on *Data structures & Algorit
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atul120212&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+[![@atulsharma's Holopin board](https://holopin.me/atulsharma)](https://holopin.io/@atulsharma)
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
