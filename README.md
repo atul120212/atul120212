@@ -21,9 +21,7 @@ As a computer science student, i have a good grasp on *Data structures & Algorit
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=atul120212&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atul120212&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atul120212&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<a href="https://app.daily.dev/atul2004"><img src="https://api.daily.dev/devcards/f4dd69cd3d2848d0b744479fe2da92e6.png?r=c86" width="400" alt="Atul Sharma's Dev Card"/></a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atul120212&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)      <a href="https://app.daily.dev/atul2004"><img src="https://api.daily.dev/devcards/f4dd69cd3d2848d0b744479fe2da92e6.png?r=c86" width="400" alt="Atul Sharma's Dev Card"/></a>
 
 [![@atulsharma's Holopin board](https://holopin.me/atulsharma)](https://holopin.io/@atulsharma)
 
