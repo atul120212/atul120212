@@ -5,8 +5,8 @@ Let me explain about myself.
 
 ## About me
 
-I am a **Software Developer** and student currently living in **India**. My interests range from *technology* to *programming*. I am also interested in volunteering, creating, learning, writing, and listening music.
-As a computer science student, i have a good grasp on *Data structures & Algorithms*. I love to build **mobile app's**. If you’d like to get in touch, feel free to say hello through any of the social links below.
+I am a founder of @CoderCorps Community, a **Software Developer**/**Python-Django Developer**, and a student currently enrolled in Graduation, living in **U.P., India**. My interests range from *technology* to *programming*. I am also interested in volunteering, organizing events, and spreading awareness about new technologies.
+As a computer science student, I have a good grasp of *Data structures and algorithms*. I love to build **mobile apps**. If you’d like to get in touch, feel free to say hello through any of the social links below.
 <div align="center">
 
 ### Show some 💓 by starring some of the repositories!
@@ -34,7 +34,7 @@ As a computer science student, i have a good grasp on *Data structures & Algorit
 
 
 
-**Swami Vivekananda** : Take Risks in Your Life If you Win, U Can Lead! If You Lose, You can Guide!
+**Swami Vivekananda**: Take Risks in Your Life If You Win, U Can Lead! If You Lose, You can Guide!
 
 ---
 
@@ -42,7 +42,7 @@ As a computer science student, i have a good grasp on *Data structures & Algorit
 - 👀 I’m interested in AI&ML and want to learn new technologies
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me :- linkedin account:: https://www.linkedin.com/in/atul-sharma-11735b1b3/
+- 📫 How to reach me :- LinkedIn account:: https://www.linkedin.com/in/atul-sharma-11735b1b3/
 
 <!---
 atul120212/atul120212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
