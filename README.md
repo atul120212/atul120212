@@ -32,6 +32,7 @@ As a computer science student, I have a good grasp of *Data structures and algor
 
 ---
 
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -80,7 +81,6 @@ As a computer science student, I have a good grasp of *Data structures and algor
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
-
 
 
 **Swami Vivekananda**: Take Risks in Your Life If You Win, U Can Lead! If You Lose, You can Guide!
